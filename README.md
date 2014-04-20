@@ -1,5 +1,5 @@
 #kined
-Kinect for Windows SDKのDバインディングです。CombGig(http://mt-caret.github.io/events/)という勉強会で発表したものを公開しています。
+Kinect for Windows SDKのDバインディングです。[CombGig](http://mt-caret.github.io/events/)という勉強会で発表したものを公開しています。
 
 
 #使い方
@@ -12,7 +12,7 @@ Kinect for Windows SDKのDバインディングです。CombGig(http://mt-caret.
 
 D bindings for Kinect for Windows SDK. This library allows you to write Kinect apps in *D language*.
 
-This library was introduced in #CombGig, and now this is public around the world.
+This library was introduced in [CombGig], and now this is public around the world.
 
 #Usage
 
