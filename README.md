@@ -12,7 +12,7 @@ Kinect for Windows SDKのDバインディングです。[CombGig](http://mt-care
 
 D bindings for Kinect for Windows SDK. This library allows you to write Kinect apps in *D language*.
 
-This library was introduced in [CombGig], and now this is public around the world.
+This library was introduced in [CombGig](http://mt-caret.github.io/events/), and now this is public around the world.
 
 #Usage
 
